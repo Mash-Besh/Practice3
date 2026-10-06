@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a70d110fb65b04489257b31136a315, type: 3}
   m_Name: PlayerHeadBobConfig_Default
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHeadBobConfig
-  walkFrequency: 7
-  horizontalAmplitude: 0.014
-  verticalAmplitude: 0.021
+  walkFrequency: 6.5
+  horizontalAmplitude: 0.012
+  verticalAmplitude: 0.018
   rollAmplitude: 0.35
-  sprintFrequency: 9
-  sprintAmplitudeMultiplier: 1.25
-  returnSpeed: 10
+  sprintFrequency: 9.5
+  sprintAmplitudeMultiplier: 1.15
+  returnSpeed: 12
